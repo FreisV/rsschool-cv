@@ -28,7 +28,7 @@
 
 # Education
 
-### HTMLacademy: "HTML and CSS"
+### HTMLacademy: "Introduction to HTML and CSS"
 
 # English
 
