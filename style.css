@@ -44,3 +44,9 @@ header img {
 main h1 {
   margin: 20px;
 }
+
+li {
+  padding: 10px;
+  margin-left: 60px;
+  list-style-position: inherit;
+}
