@@ -23,7 +23,7 @@ I'm 18 years old, studying on the 4-th course of college to be a programmer. In 
     - C#
     - C++
 * Frameworks:
-    -React
+    - React
 * Other:
     - Git
     - Visual Studio
